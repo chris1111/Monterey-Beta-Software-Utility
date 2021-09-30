@@ -6,6 +6,7 @@ Welcome Monterey Beta Software Utility
 - From Script Debugger
 - Credit: Apple [Beta Software program](https://beta.apple.com/sp/betaprogram/faq)
 
+### Working in macOS Monterey 12 only.
 
 - Gatekeeper must be disable
 
